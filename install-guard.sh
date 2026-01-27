@@ -49,7 +49,7 @@ get_os_type() {
 	Linux)
 		# IS this RIGHT, we need to build for different ARCH as well.
 		# Need more ARCH level detections
-		OS_TYPE="linux"
+		OS_TYPE="ubuntu"
 		;;
 
 	*)
